@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://pawelmalcharek.github.io/csb-e5v59/static/css/main.ccb4488f.chunk.css",
+    "main.js": "https://pawelmalcharek.github.io/csb-e5v59/static/js/main.4c84e5ee.chunk.js",
+    "main.js.map": "https://pawelmalcharek.github.io/csb-e5v59/static/js/main.4c84e5ee.chunk.js.map",
+    "runtime-main.js": "https://pawelmalcharek.github.io/csb-e5v59/static/js/runtime-main.a6097351.js",
+    "runtime-main.js.map": "https://pawelmalcharek.github.io/csb-e5v59/static/js/runtime-main.a6097351.js.map",
+    "static/js/2.2b9bac05.chunk.js": "https://pawelmalcharek.github.io/csb-e5v59/static/js/2.2b9bac05.chunk.js",
+    "static/js/2.2b9bac05.chunk.js.map": "https://pawelmalcharek.github.io/csb-e5v59/static/js/2.2b9bac05.chunk.js.map",
+    "index.html": "https://pawelmalcharek.github.io/csb-e5v59/index.html",
+    "static/css/main.ccb4488f.chunk.css.map": "https://pawelmalcharek.github.io/csb-e5v59/static/css/main.ccb4488f.chunk.css.map",
+    "static/js/2.2b9bac05.chunk.js.LICENSE.txt": "https://pawelmalcharek.github.io/csb-e5v59/static/js/2.2b9bac05.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a6097351.js",
+    "static/js/2.2b9bac05.chunk.js",
+    "static/css/main.ccb4488f.chunk.css",
+    "static/js/main.4c84e5ee.chunk.js"
+  ]
+}
